@@ -47,7 +47,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Python.day">
+  <component name="RunManager" selected="Python.test01">
     <configuration name="day" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="day01" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,9 +113,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.day" />
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.test01" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.day" />
       </list>
     </recent_temporary>
   </component>
