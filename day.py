@@ -18,4 +18,4 @@ plt.axis([40, 160, 0, 0.03])
 plt.grid(True)
 plt.show()
 print("hello")
-print("nihao")
+
